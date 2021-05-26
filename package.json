@@ -11,7 +11,7 @@
         "express-rate-limit": "^5.0.0",
         "helmet": "^3.20.0",
         "pg-promise": "^9.0.3",
-        "puppeteer": "^1.19.0",
+        "puppeteer": "^3.0.0",
         "serialize-error": "^4.1.0",
         "web-push": "^3.3.5"
     },
